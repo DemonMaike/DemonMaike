@@ -1,9 +1,8 @@
 <h1 align="center">What's up? I'm web developer. Glad to see you here! <p>
   <img src='https://media0.giphy.com/media/8qXJTU5oEhQZO/giphy.gif?cid=6c09b952w8jluaeufcsab46ltzk5y4rbz55u53q8k3p1v06y&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='OOpS!'><p>
 </h1>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <img src='https://www.codewars.com/users/DemonMaike/badges/large'>
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!--
 **DemonMaike/DemonMaike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
