@@ -2,9 +2,8 @@
   <img src='https://media0.giphy.com/media/8qXJTU5oEhQZO/giphy.gif?cid=6c09b952w8jluaeufcsab46ltzk5y4rbz55u53q8k3p1v06y&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='OOpS!'><p>
 </h1>
 <img src='https://www.codewars.com/users/DemonMaike/badges/large'>
-<img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>
-<img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'>
-![image](https://github.com/user-attachments/assets/cee3cbe1-e708-4da0-8854-ca898cf4b6d0)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 
 <!--
